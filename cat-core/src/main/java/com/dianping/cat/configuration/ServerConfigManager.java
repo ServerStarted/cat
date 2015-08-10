@@ -65,7 +65,7 @@ public class ServerConfigManager implements Initializable, LogEnabled {
 	}
 
 	public int getBindPort() {
-		return 2280;
+		return 18280;
 	}
 
 	public String getConsoleDefaultDomain() {

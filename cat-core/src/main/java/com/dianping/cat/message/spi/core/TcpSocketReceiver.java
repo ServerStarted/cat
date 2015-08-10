@@ -65,7 +65,7 @@ public class TcpSocketReceiver implements LogEnabled {
 
 	private Logger m_logger;
 
-	private int m_port = 2280; // default port number from phone, C:2, A:2, T:8
+	private int m_port = 18280; // default port number from phone, C:2, A:2, T:8
 
 	private int m_queueSize = 10000;
 
